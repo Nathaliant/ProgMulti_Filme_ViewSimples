@@ -1,9 +1,8 @@
-package br.usjt.sin.progmulti.listafilme;
-
 /*
  *Nathalia Nogueira Torres - 816114445
 */ 
 
+package br.usjt.sin.progmulti.listafilme;
 
 import android.app.Activity;
 import android.content.Intent;
